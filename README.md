@@ -12,6 +12,7 @@ Welcome to my personal system design knowledge base! This repository tracks my d
 
 ### Observability
 * [17 Oct 2026 - Distributed Tracing Deep Dive](notes/distributed-tracing.md)
+* [18 Oct 2026 - Observability Overview](notes/observability-overview.md)
 
 ---
-*“An investment in **knowledge** pays the best interest.”*
+*“An investment in knowledge pays the best interest.”*
