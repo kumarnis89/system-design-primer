@@ -14,4 +14,4 @@ Welcome to my personal system design knowledge base! This repository tracks my d
 * [17 Oct 2026 - Distributed Tracing Deep Dive](notes/distributed-tracing.md)
 
 ---
-*“An investment in knowledge pays the best interest.”*
+*“An investment in **knowledge** pays the best interest.”*
